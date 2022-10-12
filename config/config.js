@@ -1,10 +1,10 @@
 var config = {
-    name: "「Mars」guipan",
+    name: "「陳」CZW",
     sex: "男",
-    age: "16",
-    email: "d54188b@outlook.com",
-    address: "1670899917",
-    log: "「Mars」guipan",
+    age: "14",
+    email: "3084895584@qq.com",
+    address: "3084895584",
+    log: "「陳」CZW",
 
     motto: [
         "明天不一定会更好，但要坚信更好的明天一定会来。",
@@ -29,21 +29,21 @@ var config = {
              "很高兴见到你!",
 
     skills: [
-        ["网络", 80, "red"],
-        ["E语言", 66, "blue"],
-        ["Linux", 75, "#1abc9c"],
-        ["HTML5", 67, "rgba(0,0,0)"],
-        ["CSS3", 60, "yellow"],
-        ["JavaScript", 70, "pink"]
+        ["网络", 30"red"],
+        ["E语言", 80"blue"],
+        ["Linux", 25, "#1abc9c"],
+        ["HTML5", 30, "rgba(0,0,0)"],
+        ["CSS3", 20, "yellow"],
+        ["JavaScript", 10, "pink"]
     ],
 
     skills_description: "<ul>" +
         "     <li>操作系统、计算机网络等编程基础知识良好。</li>" +
         "     <li>熟悉E语言开发基本知识。</li>" +
         "     <li>熟悉基本Linux命令操作。</li>" +
-        "     <li>熟悉缓存、消息等机制。</li>" +
-        "     <li>了解分布式系统的设计与应用。</li>" +
-        "     <li>熟悉HTML、CSS、JavaScript以及相应前端知识。</li>" +
+        "     <li>不熟悉缓存、消息等机制。</li>" +
+        "     <li>不了解分布式系统的设计与应用。</li>" +
+        "     <li>不熟悉HTML、CSS、JavaScript以及相应前端知识。</li>" +
         " </ul>",
 
     url: [

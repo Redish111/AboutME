@@ -48,7 +48,7 @@ var config = {
 
     url: [
         "./images/work-bk.png",
-        "./images/2.jpg",
+        "https://q.qlogo.cn/g?b=qq&nk=1322594109&s=0",
     ]
 
 }

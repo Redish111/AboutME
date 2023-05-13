@@ -1,10 +1,10 @@
 var config = {
-    name: "「Mars」guipan",
+    name: "SUS",
     sex: "男",
-    age: "16",
-    email: "d54188b@outlook.com",
-    address: "1670899917",
-    log: "「Mars」guipan",
+    age: "13",
+    email: "public@chyabc.top",
+    address: "1322594109",
+    log: "{SUS}",
 
     motto: [
         "明天不一定会更好，但要坚信更好的明天一定会来。",
